@@ -7,7 +7,7 @@ Este projeto analisa a base de clientes de um serviço de **streaming por assina
 
 📄 [Veja a análise no Jupyter Notebook](https://github.com/lucianamenezesds/streaming-churn/blob/master/notebooks/analise_churn_estatistica.ipynb)
 
-notebooks/Estatística_I.ipynb
+notebooks/analise_churn_estatistica.ipynb
 
 ## 💼 Entendimento do Negócio
 
